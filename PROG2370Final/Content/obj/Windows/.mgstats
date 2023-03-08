@@ -1,0 +1,12 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/School/PROG2370Final/Content/background1.png","C:/School/PROG2370Final/Content/bin/Windows/background1.xnb","TextureProcessor","Texture2DContent",1046291,4194389,0.328248
+"C:/School/PROG2370Final/Content/background2.png","C:/School/PROG2370Final/Content/bin/Windows/background2.xnb","TextureProcessor","Texture2DContent",453051,1758361,0.099954
+"C:/School/PROG2370Final/Content/background3.png","C:/School/PROG2370Final/Content/bin/Windows/background3.xnb","TextureProcessor","Texture2DContent",454300,1758361,0.0941494
+"C:/School/PROG2370Final/Content/explosionSound.mp3","C:/School/PROG2370Final/Content/bin/Windows/explosionSound.xnb","SongProcessor","SongContent",62400,132,0.3843374
+"C:/School/PROG2370Final/Content/galleryFont.spritefont","C:/School/PROG2370Final/Content/bin/Windows/galleryFont.xnb","FontDescriptionProcessor","SpriteFontContent",2065,70687,0.2573915
+"C:/School/PROG2370Final/Content/laser-gun-72558.mp3","C:/School/PROG2370Final/Content/bin/Windows/laser-gun-72558.xnb","SongProcessor","SongContent",28800,133,0.3902602
+"C:/School/PROG2370Final/Content/laser.png","C:/School/PROG2370Final/Content/bin/Windows/laser.xnb","TextureProcessor","Texture2DContent",1403,213,0.1833638
+"C:/School/PROG2370Final/Content/spaceship.png","C:/School/PROG2370Final/Content/bin/Windows/spaceship.xnb","TextureProcessor","Texture2DContent",5682,583285,0.1936856
+"C:/School/PROG2370Final/Content/stars1.png","C:/School/PROG2370Final/Content/bin/Windows/stars1.xnb","TextureProcessor","Texture2DContent",190140,1758361,0.2832523
+"C:/School/PROG2370Final/Content/stars2.png","C:/School/PROG2370Final/Content/bin/Windows/stars2.xnb","TextureProcessor","Texture2DContent",382817,1758361,0.0942809
+"C:/School/PROG2370Final/Content/yellowEvilMonster.png","C:/School/PROG2370Final/Content/bin/Windows/yellowEvilMonster.xnb","TextureProcessor","Texture2DContent",1507,1073,0.2712281

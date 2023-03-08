@@ -1,0 +1,14 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"E:/ConestogaCollege/PROG2370/PROG2370Final/Content/background_1.png","E:/ConestogaCollege/PROG2370/PROG2370Final/Content/bin/Windows/Content/background_1.xnb","TextureProcessor","Texture2DContent",381597,4194389,0.3283021
+"E:/ConestogaCollege/PROG2370/PROG2370Final/Content/background_2.png","E:/ConestogaCollege/PROG2370/PROG2370Final/Content/bin/Windows/Content/background_2.xnb","TextureProcessor","Texture2DContent",199261,4194389,0.1631322
+"E:/ConestogaCollege/PROG2370/PROG2370Final/Content/background_3.png","E:/ConestogaCollege/PROG2370/PROG2370Final/Content/bin/Windows/Content/background_3.xnb","TextureProcessor","Texture2DContent",131311,4194389,0.1547498
+"E:/ConestogaCollege/PROG2370/PROG2370Final/Content/background_4.png","E:/ConestogaCollege/PROG2370/PROG2370Final/Content/bin/Windows/Content/background_4.xnb","TextureProcessor","Texture2DContent",375018,4194389,0.21016
+"E:/ConestogaCollege/PROG2370/PROG2370Final/Content/background1.png","E:/ConestogaCollege/PROG2370/PROG2370Final/Content/bin/Windows/Content/background1.xnb","TextureProcessor","Texture2DContent",1046291,4194389,0.4335827
+"E:/ConestogaCollege/PROG2370/PROG2370Final/Content/background2.png","E:/ConestogaCollege/PROG2370/PROG2370Final/Content/bin/Windows/Content/background2.xnb","TextureProcessor","Texture2DContent",453051,1758361,0.0574772
+"E:/ConestogaCollege/PROG2370/PROG2370Final/Content/background3.png","E:/ConestogaCollege/PROG2370/PROG2370Final/Content/bin/Windows/Content/background3.xnb","TextureProcessor","Texture2DContent",454300,1758361,0.076561
+"E:/ConestogaCollege/PROG2370/PROG2370Final/Content/EvilShip.png","E:/ConestogaCollege/PROG2370/PROG2370Final/Content/bin/Windows/Content/EvilShip.xnb","TextureProcessor","Texture2DContent",1439,605,0.0184678
+"E:/ConestogaCollege/PROG2370/PROG2370Final/Content/galleryFont.spritefont","E:/ConestogaCollege/PROG2370/PROG2370Final/Content/bin/Windows/Content/galleryFont.xnb","FontDescriptionProcessor","SpriteFontContent",2008,21535,0.220031
+"E:/ConestogaCollege/PROG2370/PROG2370Final/Content/greenMonster.png","E:/ConestogaCollege/PROG2370/PROG2370Final/Content/bin/Windows/Content/greenMonster.xnb","TextureProcessor","Texture2DContent",1418,517,0.0042194
+"E:/ConestogaCollege/PROG2370/PROG2370Final/Content/laser.png","E:/ConestogaCollege/PROG2370/PROG2370Final/Content/bin/Windows/Content/laser.xnb","TextureProcessor","Texture2DContent",1403,213,0.0037115
+"E:/ConestogaCollege/PROG2370/PROG2370Final/Content/spaceship.png","E:/ConestogaCollege/PROG2370/PROG2370Final/Content/bin/Windows/Content/spaceship.xnb","TextureProcessor","Texture2DContent",5682,583285,0.0157203
+"E:/ConestogaCollege/PROG2370/PROG2370Final/Content/yellowEvilMonster.png","E:/ConestogaCollege/PROG2370/PROG2370Final/Content/bin/Windows/Content/yellowEvilMonster.xnb","TextureProcessor","Texture2DContent",1507,1073,0.0042955

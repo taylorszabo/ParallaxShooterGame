@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>E:/ConestogaCollege/PROG2370/PROG2370Final/Content/background_1.png</File>
+    <File>E:/ConestogaCollege/PROG2370/PROG2370Final/Content/background_2.png</File>
+    <File>E:/ConestogaCollege/PROG2370/PROG2370Final/Content/background_3.png</File>
+    <File>E:/ConestogaCollege/PROG2370/PROG2370Final/Content/background_4.png</File>
+    <File>E:/ConestogaCollege/PROG2370/PROG2370Final/Content/background1.png</File>
+    <File>E:/ConestogaCollege/PROG2370/PROG2370Final/Content/background2.png</File>
+    <File>E:/ConestogaCollege/PROG2370/PROG2370Final/Content/background3.png</File>
+    <File>E:/ConestogaCollege/PROG2370/PROG2370Final/Content/EvilShip.png</File>
+    <File>E:/ConestogaCollege/PROG2370/PROG2370Final/Content/galleryFont.spritefont</File>
+    <File>E:/ConestogaCollege/PROG2370/PROG2370Final/Content/greenMonster.png</File>
+    <File>E:/ConestogaCollege/PROG2370/PROG2370Final/Content/laser.png</File>
+    <File>E:/ConestogaCollege/PROG2370/PROG2370Final/Content/spaceship.png</File>
+    <File>E:/ConestogaCollege/PROG2370/PROG2370Final/Content/yellowEvilMonster.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

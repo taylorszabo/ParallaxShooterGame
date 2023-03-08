@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>E:/ConestogaCollege/PROG2370/PROG2370Final/PROG2370Final/Content/laser-gun-72558.mp3</SourceFile>
+  <SourceTime>2023-03-08T11:33:30-05:00</SourceTime>
+  <DestFile>E:/ConestogaCollege/PROG2370/PROG2370Final/PROG2370Final/Content/bin/Windows/Content/laser-gun-72558.xnb</DestFile>
+  <DestTime>2023-03-08T11:34:12-05:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2022-07-26T07:44:56-04:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2022-07-26T07:44:56-04:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>E:/ConestogaCollege/PROG2370/PROG2370Final/PROG2370Final/Content/bin/Windows/Content/laser-gun-72558.wma</string>
+  </BuildOutput>
+</PipelineBuildEvent>
